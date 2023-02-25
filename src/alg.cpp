@@ -41,6 +41,6 @@ uint64_t sumPrime(uint64_t hbound) {
     if (checkPrime(a)) {
       sum += a;
     }
-  return sum;
   }
+  return sum;
 }
